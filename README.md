@@ -1,0 +1,49 @@
+# Git and GitHub Course
+
+In this course, we will cover many important aspects of managing our work:
+
+- What is Git and GitHub?
+- Explanation of how Git works
+- Downloading Git on Windows and MacOS
+- Basics of the Windows command interface (CMD)
+- Basics of the MacOS command interface (Terminal)
+- Creating a repository on Git
+- Adding files to the repository using Git
+- Writing messages correctly in Git
+- Understanding the 'head' in Git
+- Reviewing update history in Git
+- Comparing different files using Git
+- Viewing logs in detail using Git
+- Deleting files from the project using Git
+- Changing project file names using Git
+- Undoing changes in code using Git
+- Removing modifications from the staging area using Git
+- Editing comments using Git
+- Retrieving an old version of code using Git
+- Reformatting SHA using Git
+- Reformatting SHA using 'mixed' in Git
+- Reformatting SHA using 'hard' in Git
+- How to hide files in Git
+- Understanding branches in Git
+- Creating branches and moving between them using Git
+- Understanding the differences between branches in Git
+- Merging fast-forward branches using Git
+- Merging true merge branches using Git
+- What is GitHub?
+- Creating an account on GitHub
+- How to upload a project to GitHub
+- How to upload changes to GitHub
+- How branches work in GitHub
+- How to pull edits from GitHub
+- Explanation of the interface and tools in GitHub
+- Method of writing issues in GitHub
+- How to write a README file in GitHub
+- Writing a wiki on GitHub
+- Creating a private project on GitHub
+- How to create a group on GitHub
+- How to create a team within a group on GitHub
+- What is a fork in GitHub
+- Changing visibility on GitHub
+- Changing the name of the project, group, and team on GitHub
+- Deleting the project, group, and team on GitHub
+- How to use Git aliases
