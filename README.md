@@ -2,7 +2,7 @@
 
 In this course, we will cover many important aspects of managing our work:
 
-- What is Git and GitHub?
+- What are Git and GitHub?
 - Explanation of how Git works
 - Downloading Git on Windows and MacOS
 - Basics of the Windows command interface (CMD)
