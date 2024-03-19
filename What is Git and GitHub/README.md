@@ -24,8 +24,12 @@ A version control system is a system that records all the changes made to a file
 
 ## Why use a version control system
 
+![mohamed example](../images/mohammed.jpg)
+
 - Mohammed is working on a project. Two days ago, a partial modification was made to the project. Today, Mohammed is reviewing the project and discovers that the modification made by someone else two days ago caused many problems. The problem would have been easy to identify if Mohammed had reviewed the code before the modification. However, Mohammed does not typically work in this manner.
 
 - In the second scenario, Mohammed is working on a graduation project. Just two days before the project is due, his device breaks, causing the entire project to disappear with the device. Mohammed feels very angry in this situation. He must submit the project within two days, but it is now lost. If Mohammed had been regularly saving version backups of his project and uploading them to the server, retrieving the last version he uploaded and completing the project would have been simple. However, Mohammed does not typically work in this manner.
+
+![mohamed example](../images/team.jpg)
 
 - We have a company with a team consisting of four people, all of whom are working on the same project and contributing to it. You may wonder how they can all work on the same project without encountering any problems. This is where the idea of a version control system comes in.
