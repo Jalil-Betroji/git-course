@@ -13,7 +13,13 @@
 
 3. **Configure Git:**
    - During the installation process, you may be prompted to configure some settings such as your preferred text editor and terminal emulator.
-   - You can also configure Git settings later using the `git config` command.
+   - You can also configure Git settings later using the following commands:
+
+```bash
+    git config --global user.name "Your Name"
+    git config --global user.email "your.email@example.com"
+    git config --global core.autocrlf true
+```
 
 4. **Verify Installation:**
    - Once the installation is complete, open a command prompt or Git Bash terminal and run the command `git --version` to verify that Git is installed correctly.
@@ -35,5 +41,13 @@
    - Alternatively, you can download the Git installer for macOS from the [Git website](https://git-scm.com/).
    - Click on the "Download" button and follow the same steps as mentioned for Windows.
 
-5. **Verify Installation:**
-   - After installation, open Terminal and run the command `git --version` to verify that Git is installed correctly.
+5. **Configure Git:**
+   - After installation, you can configure Git settings using the following commands:
+     ```
+     git config --global user.name "Your Name"
+     git config --global user.email "your.email@example.com"
+     git config --global core.autocrlf input
+     ```
+
+6. **Verify Installation:**
+   - After configuration, open Terminal and run the command `git --version` to verify that Git is installed correctly.
