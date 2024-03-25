@@ -12,7 +12,7 @@ First, we have two types of version control systems:
 
   ![distributed version system](../images/distributed.PNG)
 
-  The idea is very simple: you will have a project on the server, and all developers on the team will take a copy of this project and download it to their devices. It means every developer is a copy taker of the project. Any modifications that happen to the developer's version will not affect the main project until they are added to the main one.
+  The idea is very simple: you will have a project on the server, and all developers on the team will take a copy of this project and download it to their devices. It means every developer is a copy-taker of the project. Any modifications that happen to the developer's version will not affect the main project until they are added to the main one.
 
 - **What is the difference between Git and GitHub:**
   - Git:
